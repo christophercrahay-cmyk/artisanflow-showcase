@@ -22,6 +22,7 @@ ArtisanFlow explore une approche simple : réduire la ressaisie et rapprocher la
 ## Ce que j'ai construit
 
 - application mobile métier avec **React Native / Expo** ;
+- distribution Android sur **Google Play en test privé**, accessible aux testeurs autorisés seulement (pas une publication grand public) ;
 - backend et persistance autour de **Supabase** ;
 - capture et **transcription vocale** pour convertir une note terrain en texte exploitable ;
 - recherche et mise en correspondance avec un catalogue métier d'environ **30 000 références de prix** ;
