@@ -6,6 +6,11 @@
 
 > **Technical review:** [Vérification des éléments publics et limites](AUDIT.md) — flux métier, données et fiabilité.
 
+## Exemples de code commentés
+
+[Consulter les exemples techniques](CODE_EXAMPLES.md) — extraits **illustratifs**, volontairement simplifiés, distincts du code privé. Ils montrent des frontières d'architecture et leurs limites, sans prétendre constituer une preuve de fonctionnement.
+
+
 ## Le problème
 
 Sur chantier, une grande partie de l'information arrive sous une forme peu structurée : notes prises rapidement, demandes client, observations techniques, prestations à chiffrer et éléments à reporter dans un devis.
