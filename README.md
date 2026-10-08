@@ -4,6 +4,8 @@
 
 **Statut : vitrine technique.** Le code source de production, les données, prompts, configurations, secrets et règles métier propriétaires ne sont pas publiés dans ce dépôt.
 
+> **Technical review:** [Vérification des éléments publics et limites](AUDIT.md) — flux métier, données et fiabilité.
+
 ## Le problème
 
 Sur chantier, une grande partie de l'information arrive sous une forme peu structurée : notes prises rapidement, demandes client, observations techniques, prestations à chiffrer et éléments à reporter dans un devis.
