@@ -6,6 +6,8 @@
 
 > **Technical review:** [Vérification des éléments publics et limites](AUDIT.md) — flux métier, données et fiabilité.
 
+**[Voir la vidéo de démonstration et l'étude de cas sur le portfolio](https://christopher-crahay.vercel.app/work/artisanflow)** — devis, lien de signature et document signé. Le film n'établit pas à lui seul le comportement hors ligne, la synchronisation ou le paiement.
+
 ## Exemples de code commentés
 
 [Consulter les exemples techniques](CODE_EXAMPLES.md) — extraits **illustratifs**, volontairement simplifiés, distincts du code privé. Ils montrent des frontières d'architecture et leurs limites, sans prétendre constituer une preuve de fonctionnement.
@@ -114,7 +116,7 @@ Mon rôle sur ce type de projet correspond à celui d'un **AI Builder / intégra
 
 ## Démonstration
 
-Une démonstration vidéo et des captures pourront être ajoutées ici dans une prochaine passe. Elles montreront le produit sans exposer les données, configurations ou mécanismes internes réservés au projet privé.
+La [démonstration vidéo est disponible sur le portfolio](https://christopher-crahay.vercel.app/work/artisanflow). Elle montre le parcours devis → lien de signature → signature client → document signé dans l'application. Les limites des fonctions non montrées y sont indiquées.
 
 ## Ce qui reste volontairement privé
 
